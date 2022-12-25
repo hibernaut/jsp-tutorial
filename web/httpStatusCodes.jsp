@@ -12,9 +12,9 @@
 </head>
 <body>
     <%
-//        response.sendError(502, "Bad gateway!");
+        //        response.sendError(502, "Bad gateway!");
         response.sendError(403, "Forbidden resource!");
-//        response.sendError(404, "We didn't find asked resource!");
+        //        response.sendError(404, "We didn't find asked resource!");
     %>
 </body>
 </html>
