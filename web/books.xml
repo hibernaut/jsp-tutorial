@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <name>A Brief History of Time</name>
+        <author>Stephen Hawking</author>
+        <price>9,99</price>
+    </book>
+
+    <book>
+        <name>The Elegant Universe</name>
+        <author>Brian Greene</author>
+        <price>9,49</price>
+    </book>
+</books>
